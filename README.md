@@ -9,6 +9,8 @@ It is based on `create-react-app` and only contains minor modifications.
 
 Browse to http://localhost:3000 to see the application in action.
 
+## overview
+
 ## File Structure
 
 Let's briefly have a look at the most important files:
